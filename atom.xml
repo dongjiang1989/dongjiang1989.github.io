@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YiShao&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://dongjiang1989.github.io/"/>
+  <updated>2020-01-15T02:56:50.573Z</updated>
+  <id>https://dongjiang1989.github.io/</id>
+  
+  <author>
+    <name>dongjiang1899</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CNI</title>
+    <link href="https://dongjiang1989.github.io/2020/01/15/CNI/"/>
+    <id>https://dongjiang1989.github.io/2020/01/15/CNI/</id>
+    <published>2020-01-15T02:45:57.000Z</published>
+    <updated>2020-01-15T02:56:50.573Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="CNI"><a href="#CNI" class="headerlink" title="CNI"></a>CNI</h1><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>CNI（容器网络接口）是一个规范和库，用于编写用于在Linux容器中配置网络接口的插件以及许多受支持的插件组成。</p><p>CNI包括几部分： </p><blockquote><p>golang SDK Lib, 用于集成实现网络通信接口；</p></blockquote><blockquote><p>Template，用于生成自定义的CNI插件，标准代码工程；</p></blockquote><blockquote><p>标准Document，包括社区公约、描述、roadmaps、milestone等</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      Container Network Interface - networking for Linux containers
+    
+    </summary>
+    
+    
+    
+      <category term="K8S, Container Network Interface" scheme="https://dongjiang1989.github.io/tags/K8S-Container-Network-Interface/"/>
+    
+  </entry>
+  
+</feed>
